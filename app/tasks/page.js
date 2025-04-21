@@ -2,7 +2,7 @@
 
 import { useActionState } from 'react';
 import Button from 'react-button-alibp';
-import Task from '../components/Task';
+import Task from '../_components/Task';
 import Link from 'next/link';
 
 function action(prevState, formData) {
